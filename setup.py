@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import re
 
-prefix = 'discordself'  # This will be changed with regular expressions if necessary
+prefix = 'discord'  # This will be changed with regular expressions if necessary
 
 requirements = []
 with open('requirements.txt') as f:
